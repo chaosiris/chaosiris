@@ -47,7 +47,7 @@ if __name__ == "__main__":
     <tr>
       <td style="padding: 10px; vertical-align: middle;">
         <a href="https://vortexnetwork.net/">
-          <img src="https://img.shields.io/badge/-VORTEXNETWORK.NET-887BFA?style=for-the-badge">
+          <img src="https://img.shields.io/badge/-VORTEXNETWORK-887BFA?style=for-the-badge">
         </a>
       </td>
       <td style="padding: 10px; vertical-align: middle;">
