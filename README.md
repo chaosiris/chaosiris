@@ -5,15 +5,15 @@
 
 <p align="center" href="https://chaosiris.com/"><img src="https://count.getloli.com/@civiews?name=civiews&theme=nixietube-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" style="max-width: 100%;"></p>
 
-<h4 align="center"><i>"Artificial Intelligence Everything & Open Source The World"</i> -Sun Tzu, The Art of Tech 2025</h4>
+<h4 align="center"><i>"Artificial Intelligence Everything & Open Source The World"</i> -Sun Tzu, The Art of Tech, 2025</h4>
 
 ```python
 from datetime import date
 
 class AboutMe():
     def __init__(self):
+        self.name = "Hao"
         self.username = "Chaos"
-        self.nickname = "Hao"
         self.pronouns = ("he", "him")
         self.location = "UK"
         self.occupation = "Computer Science Student"
@@ -39,8 +39,8 @@ if __name__ == "__main__":
 <table style="border-collapse: collapse; width: 100%; text-align: left;">
   <thead>
     <tr>
-      <th style="padding: 10px; border-bottom: 2px solid #333;">Project</th>
-      <th style="padding: 10px; border-bottom: 2px solid #333;">Description</th>
+      <th style="padding: 15px; border-bottom: 2px solid #333;"><b>Project</b></th>
+      <th style="padding: 15px; border-bottom: 2px solid #333;"><b>Description</b></th>
     </tr>
   </thead>
   <tbody>
@@ -61,7 +61,7 @@ if __name__ == "__main__":
         </a>
       </td>
       <td style="padding: 10px; vertical-align: middle;">
-        Personal portfolio website
+        Personal portfolio website. Learn more about me here!
       </td>
     </tr>
     <tr>
@@ -71,7 +71,7 @@ if __name__ == "__main__":
         </a>
       </td>
       <td style="padding: 10px; vertical-align: middle;">
-        Scripts to simplify the training of a Piper-based TTS model on Windows/WSL2.
+        Scripts to simplify the training of a Piper-based TTS model on Windows/WSL2. 
       </td>
     </tr>
   </tbody>
