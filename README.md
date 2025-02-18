@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm <b>C<i>hao</i>S</b>!</h1>
 
-<h4 align="center" style="margin: 0;">Self-Proclaimed Software Engineer, Hardware Tinkerer & Tech Enthusiast.</h4>
+<h3 align="center" style="margin: 0;">Self-Proclaimed Software Engineer, Hardware Tinkerer & Tech Enthusiast.</h3>
 <h4 align="center" style="margin: 0;">In reality, just a CS student who regularly spends way too much time on his computer instead of touching grass.</h4>
 
 <p align="center" href="https://chaosiris.com/"><img src="https://count.getloli.com/@civiews?name=civiews&theme=nixietube-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" style="max-width: 100%;"></p>
@@ -103,9 +103,10 @@ if __name__ == "__main__":
 <a href="https://www.jetbrains.com/idea/" rel="nofollow"><img src="https://img.shields.io/badge/-IntelliJ_IDEA-333333?style=for-the-badge&amp;logo=intellijidea&amp;logoColor=white&amp;labelColor=000000" style="max-width: 100%;"></a>
 <a href="https://git-scm.com/" rel="nofollow"><img src="https://img.shields.io/badge/-Git-333333?style=for-the-badge&amp;logo=git&amp;logoColor=white&amp;labelColor=F05032" style="max-width: 100%;"></a>
 <a href="https://github.com/" rel="nofollow"><img src="https://img.shields.io/badge/-GitHub/GitLab-333333?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=181717" style="max-width: 100%;"></a>
+<a href="https://docker.com/" rel="nofollow"><img src="https://img.shields.io/badge/-Docker-333333?style=for-the-badge&amp;logo=docker&amp;logoColor=white&amp;labelColor=2496ED" style="max-width: 100%;"></a>
 <a href="https://www.atlassian.com/software/jira" rel="nofollow"><img src="https://img.shields.io/badge/-Jira-333333?style=for-the-badge&amp;logo=jira&amp;logoColor=white&amp;labelColor=0052CC" style="max-width: 100%;"></a>
 <a href="https://nodered.org/" rel="nofollow"><img src="https://img.shields.io/badge/-NodeRED-333333?style=for-the-badge&amp;logo=nodered&amp;logoColor=white&amp;labelColor=8F0000" style="max-width: 100%;"></a>
 <a href="https://www.influxdata.com/" rel="nofollow"><img src="https://img.shields.io/badge/-InfluxDB-333333?style=for-the-badge&amp;logo=influxdb&amp;logoColor=white&amp;labelColor=22ADF6" style="max-width: 100%;"></a>
-<a href="https://ubuntu.com/" rel="nofollow"><img src="https://img.shields.io/badge/-Ubuntu/Debian/Arch/Kali-333333?style=for-the-badge&amp;logo=linux&amp;logoColor=white&amp;labelColor=FCC624" style="max-width: 100%;"></a>
+<a href="https://ubuntu.com/" rel="nofollow"><img src="https://img.shields.io/badge/-Ubuntu/Debian/Fedora/Arch/Kali-333333?style=for-the-badge&amp;logo=linux&amp;logoColor=white&amp;labelColor=557C94" style="max-width: 100%;"></a>
 <a href="https://www.zsh.org/" rel="nofollow"><img src="https://img.shields.io/badge/-ZSH-333333?style=for-the-badge&amp;logo=zsh&amp;logoColor=white&amp;labelColor=F15A24" style="max-width: 100%;"></a>
 </p>
